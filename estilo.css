@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+    font-family: "Coming Soon", cursive;
+    margin: 2%;
+    line-height: 1.6;
+}
+main{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px
+}
+header{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.692);
+    padding: 20px 0;
+    border-radius: 8px 8px 0 0;
+    background-image: url(https://png.pngtree.com/background/20230409/original/pngtree-sky-color-clouds-sunset-picture-image_2374551.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:  center;
+}
