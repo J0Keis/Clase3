@@ -19,7 +19,7 @@ main{
 }
 header{
     text-align: center;
-    color: rgba(255, 255, 255, 0.692);
+    color: rgba(0, 0, 0, 0.952);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
     background-image: url(https://png.pngtree.com/background/20230409/original/pngtree-sky-color-clouds-sunset-picture-image_2374551.jpg);
@@ -30,7 +30,7 @@ header{
 
 header figure img{
     border-radius: 50%;
-    border: 5px solid rgb(196, 185, 125);
+    border: 5px solid rgb(223, 208, 127);
     box-shadow: 0px 0px 10px;
 }
 
@@ -64,11 +64,12 @@ header h2{
 
 }
 
-.contenedor_foto_perfil_img{
+.container_foto_perfil_img{
     width: 100%;
     height: auto;
     display: block;
 }
+
 .nombre_puesto{
     display: inline-block;
     vertical-align: middle;
